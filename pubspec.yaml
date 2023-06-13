@@ -13,7 +13,7 @@ dependencies:
   flutter_web_plugins:
     sdk: flutter
   font_awesome_flutter: any
-  native_pdf_renderer: ^5.0.0+1
+  native_pdf_renderer: ^5.0.0
   spreadsheet_decoder: ^2.2.0
 dependency_overrides: 
   xml: ^5.1.2
