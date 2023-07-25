@@ -6,7 +6,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:native_pdf_renderer/native_pdf_renderer.dart';
+import 'package:pdfx/pdfx.dart';
 import 'package:spreadsheet_decoder/spreadsheet_decoder.dart';
 
 /// Main class for thumbnailer plugin
